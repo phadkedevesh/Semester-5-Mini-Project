@@ -1,15 +1,15 @@
 # Semester-5-Mini-Project
 
-Software requirements
+Software requirements:
 Proteus (for circuit diagram and simulation)
-Keil uVision5 IDE (for c code)
+and Keil uVision5 IDE (for c code).
 
 
 Hardware requirements:
-8051 microcontroller (80C51)
-Phone keypad
-LCD – LM016L
-DC Motor (re-present as a door-lock motor)
+8051 microcontroller (80C51), 
+Phone keypad, 
+LCD – LM016L,  
+DC Motor (re-present as a door-lock motor).
 
 
 Objective:
